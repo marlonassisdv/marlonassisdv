@@ -17,7 +17,7 @@ Quer saber mais sobre nós? [Acesse aqui](https://jeantorre.github.io/riosaude_n
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
+  <img align="center" height="60" width="60" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Looker_Studio_icon.svg/revision/latest?cb=20241011212938">
 </div>
 
 #
