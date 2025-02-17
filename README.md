@@ -24,5 +24,5 @@ Quer saber mais sobre nós? [Acesse aqui](https://jeantorre.github.io/riosaude_n
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-assis-910484192/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlondv_assis/)
-[![Gmail](https://img.shields.io/badge/Gmail-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonassis.riosaude@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massis.dv@gmail.com)
 
